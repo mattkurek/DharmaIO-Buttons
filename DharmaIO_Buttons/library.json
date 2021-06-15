@@ -1,0 +1,8 @@
+{
+    "name": "DharmaIO Buttons Library",
+    "version": "0.0.1",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mattkurek/DharmaIO-Buttons.git"
+    }
+}
